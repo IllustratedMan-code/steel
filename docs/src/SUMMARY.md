@@ -13,6 +13,7 @@
 - [The Rust Engine API](engine/engine.md)
     - [Registering functions](engine/register_function.md)
     - [Embedding values](engine/embedding_values.md)
+    - [Error Handling](engine/error_handling.md)
 - [Language Reference](reference/language.md)
     - [Keywords](reference/keywords.md)
     - [Syntax](reference/syntax.md)
